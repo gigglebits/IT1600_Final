@@ -7,6 +7,8 @@ This tutorial is intended for people who have a decent handle on basic IT and se
 - Basic HTML, CSS, and JavaScript
 - Knowledge of brute force attacks.
 - Basic understanding of web security.
+- Ability to use Burp suite. If you are unfamiliar with Burp please visit this page for some information on how to install and configure the application. [PortSwigger.com](https://portswigger.net/burp/documentation/desktop/getting-started/download-and-install)
+
 -----
 
 ### Flags:
