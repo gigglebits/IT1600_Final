@@ -1,5 +1,6 @@
 # Flag 0
 
+---
 1. For flag 0 we know it has something to do with weak authentication (No. 7: Identification and Authentication Failures on the [OWASP Top 10](https://owasp.org/www-project-top-ten/). Because of this the first step is to navigate to the sign in page. 
 ![Homepage_Signin](./static/0_1.png)
 2. From the sign in page there are a few things that would be logical to try. These might be things like:
