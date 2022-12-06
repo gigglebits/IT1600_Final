@@ -1,6 +1,7 @@
 # Flag 4
 
 Flag 4 focuses on direct object refrencing just like flag 1. This time though with editing enabled. 
+
 ---
 
 1. First things first. From the authenticated state we will click edit on one of our own posts (you'll probably only have one). 
