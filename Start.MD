@@ -12,11 +12,11 @@ This tutorial is intended for people who have a decent handle on basic IT and se
 ### Flags:
 ----------
 - [Flag 0](./Flag0.md)
-- [Flag 1]()
-- [Flag 2]()
-- [Flag 3]()
-- [Flag 4]()
-- [Flag 5]()
-- [Flag 6]()
-- [Flag 7]()
+- [Flag 1](./Flag1.md)
+- [Flag 2](./Flag2.md)
+- [Flag 3](./Flag3.md)
+- [Flag 4](./Flag4.md)
+- [Flag 5](./Flag5.md)
+- [Flag 6](./Flag6.md)
+- [Flag 7](./Flag7.md)
 
