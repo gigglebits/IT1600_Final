@@ -1,6 +1,8 @@
 # Flag 3
 This obstacle will be dealing with something called forced browsing and will implement techniques such as directory/url brute force discover. 
 
+---
+
 1. Open up any post.
 2. In Burp on the proxy and intercept tabs, toggle the intercept button.
 3. Refresh the page. 
