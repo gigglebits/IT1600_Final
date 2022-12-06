@@ -1,6 +1,6 @@
 # Flag 4
 
-Flag 1 focuses on direct object refrencing which can be encompassed into the top vulnerability on the [OWASP Top 10](https://owasp.org/www-project-top-ten/), BAC or broken access control (not blood alcohol content).
+Flag 4 focuses on direct object refrencing just like flag 1. This time though with editing enabled. 
 
 1. First things first. From the authenticated state we will click edit on one of our own posts (you'll probably only have one). 
 ![post]()
