@@ -16,4 +16,4 @@ This obstacle will be dealing with something called forced browsing and will imp
 12. This part is tough to do with Burp community unless you know what number you're looking for so something like OWASP ZAP (fuzz tool) might be better for this attack. A good resource to get started with this can be found [here](https://medium.com/geekculture/%EF%B8%8Fstop-using-burp-suite-use-zap-fd68bf12d63e) but in Burp if you look at the response from request with payload 945 you will find Flag number 3. 
 
 ---
-[Home](./Start.MD) [Back](./Flag2.md) [Next](./Flag3.md)
+[Home](./Start.MD) [Back](./Flag2.md) [Next](./Flag4.md)
