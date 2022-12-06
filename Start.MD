@@ -11,7 +11,7 @@ This tutorial is intended for people who have a decent handle on basic IT and se
 
 ### Flags:
 ----------
-- [Flag 0]()
+- [Flag 0](./Flag0.md)
 - [Flag 1]()
 - [Flag 2]()
 - [Flag 3]()
