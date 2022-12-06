@@ -11,4 +11,5 @@ For this flag we will be dealing with hidden form parameters. This is something 
 5. The post will show as being created by the admin and you will have Flag 2. 
 ![Flag]()
 
-[Home](./Start.md) [Back](./Flag1.md) [Next](./Flag3.md)
+---
+[Home](./Start.MD) [Back](./Flag1.md) [Next](./Flag3.md)
