@@ -18,5 +18,4 @@ This tutorial is intended for people who have a decent handle on basic IT and se
 - [Flag 4](./Flag4.md)
 - [Flag 5](./Flag5.md)
 - [Flag 6](./Flag6.md)
-- [Flag 7](./Flag7.md)
 
