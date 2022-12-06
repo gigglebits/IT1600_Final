@@ -21,3 +21,6 @@ This tutorial is intended for people who have a decent handle on basic IT and se
 - [Flag 5](./Flag5.md)
 - [Flag 6](./Flag6.md)
 
+---
+
+[Next](./Flag0.md)
