@@ -1,7 +1,7 @@
 # Flag 0
 
 1. For flag 0 we know it has something to do with weak authentication (No. 7: Identification and Authentication Failures on the [OWASP Top 10](https://owasp.org/www-project-top-ten/). Because of this the first step is to navigate to the sign in page. 
-![Homepage_Signin]()
+![Homepage_Signin](./static/0_1.png)
 2. From the sign in page there are a few things that would be logical to try. These might be things like:
   - Putting in a few random values to see if you get a specific error message like "Incorrect Username" or similar.
   - Putting in some special characters like single quote ('), double quote ("), pound sign (#), curly brackets (}), etc. to test for error codes indicitave of SQL or    NoSQL injection possibilities. 
@@ -11,7 +11,7 @@
 - Using a tool such as Hydra or Burp to iterate a list of common username and passwords to find a matching combo. 
 3. After playing around with the login and entering some common values we will find that ther is a user called 'user' and a password called 'password'. Sign in with these.
 4. This is where we will find our first flag.
-![Flag0]()
+![Flag0](./static/0_2.png)
 
 
 ---
