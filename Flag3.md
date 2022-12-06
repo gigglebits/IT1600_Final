@@ -19,4 +19,4 @@ This obstacle will be dealing with something called forced browsing and will imp
 ![Flag](./static/3_flag.png)
 
 ---
-[Home](./Start.MD) [Back](./Flag2.md) [Next](./Flag4.md)
+[Home](./Readme.md) [Back](./Flag2.md) [Next](./Flag4.md)
